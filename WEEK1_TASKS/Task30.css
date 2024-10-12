@@ -1,0 +1,35 @@
+body {
+    background-color:lightslategrey; 
+    font-family: Arial, sans-serif; 
+    padding: 20px; 
+}
+header {
+    background-color: darkcyan; 
+    color: white; 
+    padding: 10px;
+    text-align: center; 
+}
+.navmenu {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 10px 0;
+}
+.navmenu li {
+    display: inline;
+    margin-right: 15px; 
+}
+.navmenu a {
+    color: white; 
+    text-decoration: none; 
+    padding: 5px 10px; 
+}
+.navmenu a:hover {
+    background-color: darkturquoise; 
+    border-radius: 5px; 
+}
+section {
+    margin: 20px 0; 
+    padding: 15px; 
+    background-color: lightcyan;
+    border: 1px solid darkseagreen; 
+}
